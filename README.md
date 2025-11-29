@@ -56,5 +56,4 @@ A small UI badge generated using **Vercel v0** is included in the page to fulfil
 
 ---
 
-## 📂 Folder Structure
 
